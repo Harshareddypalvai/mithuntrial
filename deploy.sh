@@ -12,9 +12,3 @@ Else if {Srikanth love Kittu}
 	Kittu dad kill Sriknth
 
 }
-
-else ()
-{
-	Harsha will fuck Srianth
-
-}
